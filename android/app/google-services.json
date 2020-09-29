@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "120122011709",
+    "firebase_url": "https://devblog-76751.firebaseio.com",
+    "project_id": "devblog-76751",
+    "storage_bucket": "devblog-76751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120122011709:android:ca394451a4304aa2aefa54",
+        "android_client_info": {
+          "package_name": "com.devsoftlk.dev_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120122011709-fvmmmf55hae3vlu6ldpm7fik4gptnc3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8iXVKFbRuUrUtEzzl-qGlFU_k_w8Az0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120122011709-fvmmmf55hae3vlu6ldpm7fik4gptnc3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5175102177591672~3064171799"
+    }
+  ],
+  "configuration_version": "1"
+}
